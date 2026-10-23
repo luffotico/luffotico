@@ -1,29 +1,39 @@
-# Hey, I'm Kevin 👋
+# Kevin
 
-CS Student & Python Developer based in Las Vegas, NV.
-Currently building real projects while studying DSA and preparing for college.
+**CS Student • Developer • Builder**
 
----
+Las Vegas, NV
 
-## 🛠️ Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+I’m a Computer Science student focused on improving as a developer through real projects, constant learning, and consistency.
+
+I like creating things with purpose, clean design, and strong identity.
 
 ---
 
-## 📚 Currently Learning
+## Stack
+
+Python • C++ • Linux • Git • GitHub • VS Code
+
+---
+
+## Project
+
+**Tokyo Ghoul Theme**  
+A Visual Studio Code theme inspired by Tokyo Ghoul.
+
+---
+
+## Learning
+
 - Data Structures & Algorithms
-- Python certification (PCEP)
+- C++
+- Problem Solving
+- Software Development
 
 ---
 
-## 🎯 Goals
-- Land my first dev job
-- Transfer to university for Computer Science
-- Keep building cool things
+## Goal
+
+To grow into a high-level developer and build projects that stand out.
 
 ---
-
-*"The only way to learn programming is to write programs."*
