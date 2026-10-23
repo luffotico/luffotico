@@ -16,13 +16,6 @@ Python • C++ • Linux • Git • GitHub • VS Code
 
 ---
 
-## Project
-
-**Tokyo Ghoul Theme**  
-A Visual Studio Code theme inspired by Tokyo Ghoul.
-
----
-
 ## Learning
 
 - Data Structures & Algorithms
